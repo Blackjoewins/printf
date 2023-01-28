@@ -1,8 +1,3 @@
-/*
- * File: handlers.c
- * Auth: Brennan D Baraban
- *       Michael Klein
- */
 
 #include "holberton.h"
 

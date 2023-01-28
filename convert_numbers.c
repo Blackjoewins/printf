@@ -1,8 +1,3 @@
-/*
- * File: convert_numbers.c
- * Auth: Brennan D Baraban
- *       Michael Klein
- */
 
 #include "main.h"
 

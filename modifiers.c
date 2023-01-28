@@ -1,7 +1,3 @@
-/*
- * File: modifiers.c
- * Auth: Brennan D Baraban
- */
 
 #include "holberton.h"
 
